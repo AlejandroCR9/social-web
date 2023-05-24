@@ -1,2 +1,2 @@
 # social-web
-Small social wensite with django
+Small social website with django
